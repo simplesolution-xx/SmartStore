@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SmartStore:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="smartstore-core-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SmartStore:war exploded" />
+    </root>
+  </artifact>
+</component>
